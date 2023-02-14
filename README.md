@@ -1,5 +1,9 @@
-# Task Manager
+# Title: Task Manager
+
+# Description
 This is a task manager that allows you to register new users, allocate them tasks, check if they've completed them by the deadline, and display statistics.
+
+# Table of content
 
 The menu allows you to:
 
@@ -16,3 +20,11 @@ gr - generate reports
 ds - display statistics
 
 e - Exit
+
+# Installation
+
+For the program to work, save all files within one folder, including the text files.
+
+# Credits
+
+Maria Tulea
