@@ -3,6 +3,7 @@ This is a task manager that allows you to register new users, allocate them task
 
 The menu allows you to:
 r - Registering a user
+
 a - Adding a task
 va - View all tasks
 vm - view my task
