@@ -1,0 +1,11 @@
+admin, adm1n
+maria, yellow
+sarah, blue
+eve, orange
+sean, pink
+freddie, corai
+tania, purple
+tina, red
+alexia, grey
+gloria, beige
+trisha, gold

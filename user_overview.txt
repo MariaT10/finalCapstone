@@ -1,0 +1,52 @@
+The total number of users registered is: 11.
+The total number of tasks generated is: 10.
+
+maria has been assigned: 2 tasks.
+eve has been assigned: 1 tasks.
+sean has been assigned: 1 tasks.
+freddie has been assigned: 1 tasks.
+tania has been assigned: 1 tasks.
+alexia has been assigned: 1 tasks.
+admin has been assigned: 1 tasks.
+sarah has been assigned: 1 tasks.
+tina has been assigned: 1 tasks.
+
+maria has been assigned: 20.0% of the total tasks.
+eve has been assigned: 10.0% of the total tasks.
+sean has been assigned: 10.0% of the total tasks.
+freddie has been assigned: 10.0% of the total tasks.
+tania has been assigned: 10.0% of the total tasks.
+alexia has been assigned: 10.0% of the total tasks.
+admin has been assigned: 10.0% of the total tasks.
+sarah has been assigned: 10.0% of the total tasks.
+tina has been assigned: 10.0% of the total tasks.
+
+maria has completed: 50.0% of their tasks.
+eve has completed: 0.0% of their tasks.
+sean has completed: 0.0% of their tasks.
+freddie has completed: 0.0% of their tasks.
+tania has completed: 0.0% of their tasks.
+alexia has completed: 0.0% of their tasks.
+admin has completed: 0.0% of their tasks.
+sarah has completed: 100.0% of their tasks.
+tina has completed: 100.0% of their tasks.
+
+maria still has to complete: 50.0% of their tasks.
+eve still has to complete: 100.0% of their tasks.
+sean still has to complete: 100.0% of their tasks.
+freddie still has to complete: 100.0% of their tasks.
+tania still has to complete: 100.0% of their tasks.
+alexia still has to complete: 100.0% of their tasks.
+admin still has to complete: 100.0% of their tasks.
+sarah still has to complete: 0.0% of their tasks.
+tina still has to complete: 0.0% of their tasks.
+
+maria has: 0.0% of their tasks that are incomplete and overdue.
+eve has: 0.0% of their tasks that are incomplete and overdue.
+sean has: 100.0% of their tasks that are incomplete and overdue.
+freddie has: 100.0% of their tasks that are incomplete and overdue.
+tania has: 100.0% of their tasks that are incomplete and overdue.
+alexia has: 100.0% of their tasks that are incomplete and overdue.
+admin has: 100.0% of their tasks that are incomplete and overdue.
+sarah has: 0.0% of their tasks that are incomplete and overdue.
+tina has: 0.0% of their tasks that are incomplete and overdue.

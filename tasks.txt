@@ -1,0 +1,10 @@
+maria, Change font, Go to settings and change the font to calibri., 12 Jan 2023, 07 Feb 2023, No
+eve, Amend colours, Change all blue icons to green., 12 Jan 2023, 15 Feb 2023, No
+sean, buy coffee, Go to the nearest cafe and buy a latte., 12 Jan 2023, 12 Jan 2023, No
+freddie, Design the home page., Create a new Figma file and design the Home Page for our new app., 12 Jan 2023, 16 Jan 2023, No
+tania, Book the meeting room for tomorrow, Book the main meeting room for tomorrow's client meeting., 12 Jan 2023, 14 Jan 2023, No
+alexia, paint the walls, Buy red paint and paint the living room., 13 Jan 2023, 20 Jan 2023, No
+admin, re-do the calculation, the calculation is missing a step, please re-check., 13 Jan 2023, 15 Jan 2023, No
+sarah, check the website, fix the bug, 13 Jan 2023, 16 Jan 2023, Yes
+tina, hire a new designer, talk to the HR to hire a new designer, 13 Jan 2023, 18 Jan 2023, Yes
+maria, print leaflets, print 50 leaflets for the careers event., 30 Jan 2023, 2 Feb 2023, Yes
